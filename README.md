@@ -27,10 +27,10 @@ Senior Data Analyst and Analytics Engineer with extensive experience in the heal
 
 *A curated selection of projects demonstrating my skills in data engineering, predictive analytics, and business intelligence. All projects use publicly available, de-identified data.*
 
-#### Project 1: End-to-End Analytics Pipeline for Public Health Data
+#### Project 1: dbt ETL build to modularize a patient profile report built in SQL
 * **Description:** An end-to-end data pipeline built on SQLite that ingests public health data using Python and Airflow, models it with dbt and SQL, and visualizes insights with Plotly.
 * **Skills Showcased:** Data Engineering, Apache Airflow, dbt, SQL, Data Visualization, Python, Data Modeling.
-* **[Link to Repository]**
+* **[Link to Repository](https://github.com/dansarmiento/dbt_data_build_tool)**
 
 #### Project 2: Predictive Modeling for Hospital Readmission Risk
 * **Description:** A machine learning project using Python and Scikit-learn to predict hospital readmission risk based on the UCI Diabetes dataset. The repository includes a full Jupyter Notebook walking through data exploration, feature engineering, and model evaluation.
