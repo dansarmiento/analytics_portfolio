@@ -32,10 +32,10 @@ Senior Data Analyst and Analytics Engineer with extensive experience in the heal
 * **Skills Showcased:** Data Engineering, Apache Airflow, dbt, SQL, Data Visualization, Python, Data Modeling.
 * **[Link to Repository](https://github.com/dansarmiento/dbt_data_build_tool)**
 
-#### Project 2: Predictive Modeling for Hospital Readmission Risk
-* **Description:** A machine learning project using Python and Scikit-learn to predict hospital readmission risk based on the UCI Diabetes dataset. The repository includes a full Jupyter Notebook walking through data exploration, feature engineering, and model evaluation.
-* **Skills Showcased:** Machine Learning, Python (Pandas, Scikit-learn), Data Analysis, Predictive Modeling.
-* **[Link to Repository]**
+#### Project 2: Machine Learning Modeling for Mental Health
+* **Description:** This project addresses a machine learning task aimed at predicting the **Severity Impairment Index (sii)**, which quantifies levels of problematic internet use in children and adolescents. The prediction is based on physical activity and behavioral data.
+* **Skills Showcased:** Exploratory Data Analysis, Data Preprocessing, XGBoost, CatBoost, MLPClassifier, ML Pipeline Design
+* **[Link to Repository](https://github.com/dansarmiento/machine_learning_notebooks/blob/main/mental_health_prediction.ipynb)**
 
 #### Project 3: Interactive BI Dashboard for Healthcare Access Analysis
 * **Description:** A story-driven Tableau dashboard analyzing disparities in healthcare access using CDC and HRSA public data. The dashboard provides a narrative with drill-down capabilities for exploring social determinants of health.
