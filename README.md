@@ -1,6 +1,4 @@
-# analytics_portfolio
-analytics projects including ETL, statistical analysis, visualization, and machine learning
-
+# Analytics Portfolio Repository
 # Daniel Sarmiento | Analytics Engineer
 [Chino, CA](https://www.google.com/maps/place/Chino,+CA) | (909) 973-8783 | dansarmiento@gmail.com | [LinkedIn](https://www.linkedin.com/in/DanSarmiento/) | [GitHub](https://github.com/dansarmiento/analytics_portfolio)
 
