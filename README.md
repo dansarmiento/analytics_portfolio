@@ -6,20 +6,20 @@
 
 ### About Me
 
-Senior Data Analyst and Analytics Engineer with extensive experience in the healthcare sector. I specialize in designing and deploying cloud-based data solutions that integrate clinical, financial, and operational data to support business intelligence and data-driven decision-making[cite: 1]. My expertise lies in architecting robust ETL/ELT pipelines[cite: 2], developing predictive models[cite: 7], and creating intuitive dashboards that empower stakeholders and drive organizational improvements[cite: 3, 9, 14]. I am passionate about mentoring and leading teams in analytics engineering best practices[cite: 6].
+Senior Data Analyst and Analytics Engineer with extensive experience in the healthcare sector. I specialize in designing and deploying cloud-based data solutions that integrate clinical, financial, and operational data to support business intelligence and data-driven decision-making. My expertise lies in architecting robust ETL/ELT pipelines, developing predictive models, and creating intuitive dashboards that empower stakeholders and drive organizational improvements. I am passionate about mentoring and leading teams in analytics engineering best practices.
 
 ---
 
 ### Skills
 
-* **Cloud Data Platforms:** AWS Solutions Architect, Google Cloud Platform, Microsoft Fabric [cite: 1]
-* **Databases:** SQL Server, Postgres, MySQL, Google BigQuery, AWS Redshift [cite: 1]
-* **ETL/ELT:** dbt, SQL, Python, Apache Airflow, Apache Kafka [cite: 1]
-* **Programming Languages:** Python, SQL [cite: 1]
-* **Data Visualization:** Tableau, Power BI, Google Looker [cite: 1]
-* **Machine Learning:** Supervised and unsupervised model training with Python [cite: 1]
-* **Version Control:** Github [cite: 1]
-* **Epic Ecosystem:** Clarity, Caboodle, and Cogito Data Models [cite: 1]
+* **Cloud Data Platforms:** AWS Solutions Architect, Google Cloud Platform, Microsoft Fabric
+* **Databases:** SQL Server, Postgres, MySQL, Google BigQuery, AWS Redshift 
+* **ETL/ELT:** dbt, SQL, Python, Apache Airflow, Apache Kafka 
+* **Programming Languages:** Python, SQL 
+* **Data Visualization:** Tableau, Power BI, Google Looker 
+* **Machine Learning:** Supervised and unsupervised model training with Python 
+* **Version Control:** Github 
+* **Epic Ecosystem:** Clarity, Caboodle, and Cogito Data Models 
 
 ---
 
@@ -27,9 +27,9 @@ Senior Data Analyst and Analytics Engineer with extensive experience in the heal
 
 *A curated selection of projects demonstrating my skills in data engineering, predictive analytics, and business intelligence. All projects use publicly available, de-identified data.*
 
-#### Project 1: End-to-End Cloud Analytics Pipeline for Public Health Data
-* **Description:** An end-to-end data pipeline built on [Choose: AWS/GCP/Azure] that ingests public health data using Python and Airflow, models it with dbt and SQL in BigQuery/Redshift, and serves insights via a Power BI dashboard.
-* **Skills Showcased:** Cloud Architecture, Apache Airflow, dbt, SQL, Power BI, Python, Data Modeling.
+#### Project 1: End-to-End Analytics Pipeline for Public Health Data
+* **Description:** An end-to-end data pipeline built on SQLite that ingests public health data using Python and Airflow, models it with dbt and SQL, and visualizes insights with Plotly.
+* **Skills Showcased:** Data Engineering, Apache Airflow, dbt, SQL, Data Visualization, Python, Data Modeling.
 * **[Link to Repository]**
 
 #### Project 2: Predictive Modeling for Hospital Readmission Risk
