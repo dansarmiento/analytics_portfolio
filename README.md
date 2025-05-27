@@ -37,7 +37,7 @@ Senior Data Analyst and Analytics Engineer with extensive experience in the heal
 * **Skills Showcased:** Exploratory Data Analysis, Data Preprocessing, Naive Bayes, Data Visualization
 * **[Link to Repository](https://github.com/dansarmiento/machine_learning_notebooks/blob/main/Naive_Bayes_for_Depression.ipynb)**
 
-#### Project 3: Interactive BI Dashboard for Healthcare Access Analysis
-* **Description:** A story-driven Tableau dashboard analyzing disparities in healthcare access using CDC and HRSA public data. The dashboard provides a narrative with drill-down capabilities for exploring social determinants of health.
-* **Skills Showcased:** Tableau, Data Storytelling, Data Visualization, SQL, UI/UX Design
-* **[Link to Repository] | [Link to Live Dashboard on Tableau Public]**
+#### Project 3: Predictive Modeling for Heart Disease Risk
+* **Description:** This project focuses on developing and evaluating machine learning models to predict the likelihood of heart disease in patients based on a set of medical attributes. The analysis involves comprehensive exploratory data analysis (EDA) to understand feature relationships, data preprocessing including encoding and scaling, and the implementation of various classification algorithms. The final output includes a comparative evaluation of models like Logistic Regression, KNN, SVM, Naive Bayes, Decision Tree, Random Forest, and XGBoost, with a focus on identifying the most accurate predictive model. The insights derived help in understanding key risk factors associated with heart failure.
+* **Skills Showcased:** Machine Learning, Data Visualization, Exploratory Data Analysis, Data Preprocessing, Model Building & Evaluation
+* **[Link to Repository](https://github.com/dansarmiento/machine_learning_notebooks/blob/main/Heart_Failure_Prediction.ipynb) **
