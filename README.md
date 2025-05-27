@@ -33,9 +33,9 @@ Senior Data Analyst and Analytics Engineer with extensive experience in the heal
 * **[Link to Repository](https://github.com/dansarmiento/dbt_data_build_tool)**
 
 #### Project 2: Machine Learning Modeling for Mental Health
-* **Description:** This project addresses a machine learning task aimed at predicting the **Severity Impairment Index (sii)**, which quantifies levels of problematic internet use in children and adolescents. The prediction is based on physical activity and behavioral data.
-* **Skills Showcased:** Exploratory Data Analysis, Data Preprocessing, XGBoost, CatBoost, MLPClassifier, ML Pipeline Design
-* **[Link to Repository](https://github.com/dansarmiento/machine_learning_notebooks/blob/main/mental_health_prediction.ipynb)**
+* **Description:** This project demonstrates an end-to-end machine learning pipeline in Python to predict the likelihood of depression based on a range of lifestyle and demographic factors. It showcases the use of Pandas for data wrangling and a scikit-learn pipeline with a ColumnTransformer to handle imputation, scaling, and one-hot encoding for mixed data types before training and evaluating a Gaussian Naive Bayes classifier.
+* **Skills Showcased:** Exploratory Data Analysis, Data Preprocessing, Naive Bayes, Data Visualization
+* **[Link to Repository](https://github.com/dansarmiento/machine_learning_notebooks/blob/main/Naive_Bayes_for_Depression.ipynb)**
 
 #### Project 3: Interactive BI Dashboard for Healthcare Access Analysis
 * **Description:** A story-driven Tableau dashboard analyzing disparities in healthcare access using CDC and HRSA public data. The dashboard provides a narrative with drill-down capabilities for exploring social determinants of health.
