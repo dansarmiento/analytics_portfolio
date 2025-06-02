@@ -42,7 +42,7 @@ Senior Data Analyst and Analytics Engineer with extensive experience in the heal
 * **Skills Showcased:** Exploratory Data Analysis, Data Preprocessing, Naive Bayes, Data Visualization
 * **[Link to Repository](https://github.com/dansarmiento/machine_learning_notebooks/blob/main/Naive_Bayes_for_Depression.ipynb)**
 
-#### Project 4: dbt ETL build to modularize a patient profile report built in SQL
-* **Description:** A dbt model that takes a SQL view creating a multi-faceted patient profile predicting churn with demographics data and modularizing it with dbt.
-* **Skills Showcased:** dbt, SQL, Data Modeling
-* **[Link to Repository](https://github.com/dansarmiento/dbt_data_build_tool)**
+#### Project 4: Machine Learning Patient Appointment Feature Store Design 
+* **Description:** Designed and implemented a prototype feature store using Python and SQLite to manage, version, and evaluate features derived from patient appointment data. This project involved defining a comprehensive metadata model for feature definitions, transformation logic, feature sets, lineage, and evaluation metrics. The workflow included ingesting raw appointment data, performing feature engineering (e.g., extracting time-based features, creating categorical and boolean flags), registering these features, storing them, and conducting illustrative evaluations (Chi-Squared tests) against a target variable ("Left without seen"). The system also included visualization of feature distributions and evaluation results to aid in feature understanding and selection for potential predictive modeling.
+* **Skills Showcased:** Python, Pandas, SQLite, Data Modeling, Feature Engineering, Machine Learning Feature Evaluation, Data Visualization, Metadata Management
+* **[Link to Repository](https://github.com/dansarmiento/python_analytics_solutions/blob/main/Feature%20Store%20Modeling.ipynb)**
